@@ -29,10 +29,42 @@ Absen Karyawan - Sistem informasi karyawan merupakan aplikasi absensi berbasis w
   1. username = user
   2. password = user
   
--> Catatan(PENTING) :
-    <i style="color: yellow;">Sebelum mengimport database, pastikan anda membuat database sesuai dengan nama database yang ada di dalam folder db, yaitu 'karyawansi'</i>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Aplikasi ini adalah aplikasi open source, anda bisa menggunakan aplikasi saya ini untuk apapun. 
-Tetapi jika anda berkenan, silahkan donasi :
+# 🕒 APK-WEB-ABSENSI — Aplikasi Web Absensi Siswa
 
-# APK-WEB-ABSENSI
+**APK-WEB-ABSENSI** adalah aplikasi web sederhana yang dirancang untuk mencatat dan mengelola kehadiran siswa. Dibuat dengan teknologi berbasis web (HTML, CSS, JS) dan dapat dikembangkan lebih lanjut menggunakan database dan backend PHP/MySQL. Cocok untuk sekolah, kampus, pelatihan, dan organisasi.
+
+🌐 **[Live Demo](https://faulnam.github.io/APK-WEB-ABSENSI/)** *(aktifkan GitHub Pages jika belum)*  
+📁 **[Lihat Repositori GitHub](https://github.com/faulnam/APK-WEB-ABSENSI)**
+
+![Stars](https://img.shields.io/github/stars/faulnam/APK-WEB-ABSENSI?style=social)
+![Forks](https://img.shields.io/github/forks/faulnam/APK-WEB-ABSENSI?style=social)
+![License](https://img.shields.io/github/license/faulnam/APK-WEB-ABSENSI)
+
+---
+
+## ✨ Fitur Unggulan
+
+- ✅ Form absensi harian siswa (nama, waktu, keterangan)
+- 📄 Rekap data absensi dalam bentuk tabel
+- 🔍 Pencarian data absensi dengan JavaScript
+- 📱 Desain responsif di HP/laptop
+- ⚙️ Mudah dikembangkan menjadi sistem database dinamis
+
+---
+
+## 🛠️ Teknologi Digunakan
+
+- HTML5
+- CSS3
+- JavaScript
+- (Optional untuk pengembangan lanjutan: PHP, MySQL)
+
+---
+
+## 🚀 Cara Menjalankan Proyek Secara Lokal
+
+### 1. Clone Repositori
+
+```bash
+git clone https://github.com/faulnam/APK-WEB-ABSENSI.git
+
